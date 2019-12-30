@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+}
+
+.main {
+    height: 100%;
+    background-image: url('../images/infinite-hearts-background-original-3d-rendering-love-theme.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tab-title {
+    text-shadow: 1px 1px #696969;
+    font-size: 38px;
+}
+
+.players-container {
+    width: 100%;
+}
+
+.modal-styles {
+    background: pink;
+}
+
+.happy-monkey {
+    font-family: 'Happy Monkey', cursive;
+}
+
+.my-input {
+    border: 0px;
+    height: 45px;
+}
+
+.pink-btn {
+    background-color: #a053c7;
+    box-shadow: #464546 1px 2px 4px;
+    color: white;
+}
+
+.purple-btn {
+    background: hotpink;
+    color: white;
+    box-shadow: #464546 1px 2px 4px;
+}
+
+.player-btn {
+    box-shadow: #464546 1px 2px 4px;
+    background: #a9da3a;
+}
+
+.player-btn:hover {
+    background: lime;
+}
+
+.modal-partner-name {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 0px;
+}
